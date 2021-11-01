@@ -1,3 +1,9 @@
+# Como inicio meus apps com ReactJS? Next.js, TypeScript, ESLint e Styled Components | Code/Drops #50
+
+# Iam learning structure/organization of project in React
+
+## lesson video of Rocketseat link = https://www.youtube.com/watch?v=1nVUfZg2dSA
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -32,3 +38,11 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+---------------------------------------
+![Screenshot from 2021-11-01 15-17-31](https://user-images.githubusercontent.com/52864546/139687037-eef57cbc-bf3c-4fd6-8007-65152d805653.png)
+
+
+
+
